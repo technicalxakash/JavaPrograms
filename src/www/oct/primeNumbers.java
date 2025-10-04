@@ -16,7 +16,7 @@ public class primeNumbers {
 	
 	public static void main(String[] args) {
 	
-		prime(3);
+		prime(9);
 
 	}
 
