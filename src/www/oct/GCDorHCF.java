@@ -8,9 +8,10 @@ public class GCDorHCF {
 
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter a : ");	
-int a= sc.nextInt();
-System.out.println("enter b : ");
-int b=sc.nextInt();
+	int a= sc.nextInt();
+	System.out.println("enter b : ");
+	int b=sc.nextInt();
+
 
 int min=0;
 if(a<b) {
