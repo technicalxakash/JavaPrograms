@@ -15,10 +15,10 @@ public class GCDorHCF {
 
 int min=0;
 if(a<b) {
-	min=b;
+	min=a;
 }
 else {
-	min=a;
+	min=b;
 }
 		
 	
@@ -30,7 +30,8 @@ else {
 				break;
 			}
 		}
-
+		
+		
 	}
 
 }
