@@ -5,7 +5,7 @@ public class trailingZeroInFact {
 	public static void main(String[] args) {
 		
 		int num=6;
-int count=1;
+		int count=1;
 		
 		for(int i=1;i<=num;i++) {
 			
@@ -27,7 +27,7 @@ int count=1;
 	
 	}
 	
-
+				
 	}
 
 
