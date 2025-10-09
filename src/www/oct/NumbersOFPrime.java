@@ -32,6 +32,6 @@ for(int i=2;i<=20;i++) {
 
 
 //Keyword	      	Effect
-//return	        Exits the method completely (used here correctly)
-//continue			Skips to the next iteration of the loop (wrong here)
-//break				Exits only the loop, not the method (also possible alternative here)
+//return	        Exits the method completely 
+//continue			Skips to the next iteration of the loop 
+//break				Exits only the loop, not the method 

@@ -11,16 +11,14 @@ public class COunt_Char_STring {
 		
 		for(int i=0;i<=a.length-1;i++) {	
 			
-			if(a[i]>='0' && a[i]<='9') {
-				
-				 continue;
+			if(a[i]>='0' && a[i]<='9') {				
+				 continue;				 
 			}
 			else {
 				
 				count=count+1;
 			}
-			
-			
+						
 		}
 		
 		System.out.println(count);
